@@ -1,4 +1,5 @@
-## Hello GitHub Community, I'm Nithyaganesh 👋
+## Hello all, I'm Nithyaganesh 👋
+######I'm a junior full stack web developer
 
 Here are some ideas to get you started:
 
