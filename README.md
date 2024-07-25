@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**nithyaganeshm-dev/nithyaganeshm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello GitHub Community, I'm Nithyaganesh 👋
 
 Here are some ideas to get you started:
 
