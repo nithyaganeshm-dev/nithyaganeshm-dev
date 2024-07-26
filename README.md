@@ -1,7 +1,7 @@
-# Hi there, I'm Nithyaganesh 👋
+# Hi there, I'm Nithyaganesh M 👋
 
 ## 🚀 About Me
-I am an aspiring full stack web developer with a strong passion for creating dynamic and responsive web applications. I have a solid foundation in web development technologies and continuously strive to enhance my skills and stay updated with the latest industry trends.
+I am an aspiring full stack developer with a strong passion for creating dynamic and responsive web applications. I have a solid foundation in web development technologies and continuously strive to enhance my skills and stay updated with the latest industry trends.
 
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning advanced JavaScript and React.js
@@ -46,6 +46,6 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
   
 ---
 
-**Nithyaganesh** - Aspiring Full Stack Developer
+**Nithyaganesh M** - Aspiring Full Stack Developer
 
 ![GitHub followers](https://img.shields.io/github/followers/nithyaganeshm-dev?style=social) ![GitHub stars](https://img.shields.io/github/stars/nithyaganeshm-dev?style=social)
