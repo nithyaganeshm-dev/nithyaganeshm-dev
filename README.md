@@ -27,8 +27,8 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 
 ## 📈 GitHub Stats
-![Nithyaganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganesh-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaganesh&layout=compact&theme=radical)
+![Nithyaganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaganeshm-dev&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 - 🏅 Completed an internship at CodSoft in web development
