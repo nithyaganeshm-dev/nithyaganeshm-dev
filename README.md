@@ -42,4 +42,4 @@ I am an aspiring full stack developer from salem with a strong passion for creat
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/nithya-ganesh/)
-[![Twitter](https://img.icons8.com/color/48/twitterx--v1.png)](https://twitter.com/nithya_ganesh78)
+[![WhatsApp Business](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/message/AUBSD4Z5OUXAH1)
