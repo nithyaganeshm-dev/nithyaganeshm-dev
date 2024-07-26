@@ -28,7 +28,7 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 ![VsCode](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
+![Nithyaganesh M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaganeshm-dev&layout=compact&theme=radical)
 
 ## 🏆 Achievements
@@ -42,9 +42,3 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 ## 📫 Connect with Me
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/nithya-ganesh/)
 [![Twitter](https://img.icons8.com/color/48/twitterx--v1.png)](https://twitter.com/nithya_ganesh78)
-
-## 🌟 Projects
-- [Project 1](https://github.com/nithyaganesh/project1) - Description of project 1
-- [Project 2](https://github.com/nithyaganesh/project2) - Description of project 2
-- [Project 3](https://github.com/nithyaganesh/project3) - Description of project 3
-
