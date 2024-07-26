@@ -25,14 +25,14 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 ![Git](https://img.icons8.com/color/48/git.png)
 ![GitHub](https://img.icons8.com/fluency/48/github.png)
 ![MongoDB](https://img.icons8.com/color/48/mongodb.png)
-![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
+![VsCode](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 
 ## 📈 GitHub Stats
-![Nithyaganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaganeshm-dev&layout=compact&theme=radical)
 
 ## 🏆 Achievements
-- 🏅 Completed an internship at CodSoft in web development
+- 🎉 Attended the Google Cloud Next '23 event in Benguluru
 - 🎉 Attended the Google I/O Extended 2024 event in Salem
 
 ## :star: Badges Earned
