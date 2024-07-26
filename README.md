@@ -22,8 +22,9 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 ![SASS](https://img.icons8.com/color/48/sass.png)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.icons8.com/color/48/git.png)
+![GitHub](https://img.icons8.com/fluency/48/github.png)
+![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 
 ## 📈 GitHub Stats
 ![Nithyaganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganesh&show_icons=true&theme=radical)
