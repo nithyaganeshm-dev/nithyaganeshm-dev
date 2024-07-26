@@ -13,14 +13,13 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 
 ### Languages
 ![Python](https://img.icons8.com/color/48/python--v1.png)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
+![HTML](https://img.icons8.com/color/48/html-5--v1.png)
+![CSS](https://img.icons8.com/fluency/48/css3.png)
 
 ### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.icons8.com/color/48/bootstrap--v2.png)
+![SASS](https://img.icons8.com/color/48/sass.png)
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
