@@ -35,7 +35,7 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 - 🎉 Attended the Google I/O Extended 2024 event in Salem
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithyaganesh/)
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/nithya-ganesh/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nithyaganesh)
 
 ## 🌟 Projects
