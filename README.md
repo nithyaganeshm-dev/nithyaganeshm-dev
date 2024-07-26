@@ -28,8 +28,8 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 ![VsCode](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 
 ## 📈 GitHub Stats
-![Nithyaganesh M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/nithyaganeshm-dev?style=social)
+![Nithyaganesh M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 - 🎉 Attended the Google Cloud Next '23 event in Benguluru
