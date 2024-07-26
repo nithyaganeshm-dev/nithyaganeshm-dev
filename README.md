@@ -42,13 +42,9 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 - [Project 1](https://github.com/nithyaganesh/project1) - Description of project 1
 - [Project 2](https://github.com/nithyaganesh/project2) - Description of project 2
 - [Project 3](https://github.com/nithyaganesh/project3) - Description of project 3
-
-## 📝 Blog Posts
-- [How to Get Started with Python](https://yourblog.com/python-get-started)
-- [Tips for Writing Clean CSS](https://yourblog.com/clean-css-tips)
-
+  
 ---
 
 **Nithyaganesh** - Aspiring Full Stack Developer
 
-![GitHub followers](https://img.shields.io/github/followers/nithyaganesh?style=social) ![GitHub stars](https://img.shields.io/github/stars/nithyaganesh?style=social)
+![GitHub followers](https://img.shields.io/github/followers/nithyaganeshm-dev?style=social) ![GitHub stars](https://img.shields.io/github/stars/nithyaganeshm-dev?style=social)
