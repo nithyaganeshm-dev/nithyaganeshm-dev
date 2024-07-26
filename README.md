@@ -41,15 +41,10 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/nithya-ganesh/)
-[![Twitter](https://img.icons8.com/color/48/twitterx--v1.png)](https://twitter.com/nithyaganesh)
+[![Twitter](https://img.icons8.com/color/48/twitterx--v1.png)](https://twitter.com/nithya_ganesh78)
 
 ## 🌟 Projects
 - [Project 1](https://github.com/nithyaganesh/project1) - Description of project 1
 - [Project 2](https://github.com/nithyaganesh/project2) - Description of project 2
 - [Project 3](https://github.com/nithyaganesh/project3) - Description of project 3
-  
----
 
-**Nithyaganesh M** - Aspiring Full Stack Developer
-
-![GitHub followers](https://img.shields.io/github/followers/nithyaganeshm-dev?style=social) ![GitHub stars](https://img.shields.io/github/stars/nithyaganeshm-dev?style=social)
