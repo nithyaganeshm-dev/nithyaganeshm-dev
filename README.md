@@ -36,7 +36,7 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 - 🎉 Attended the Google I/O Extended 2024 event in Salem
 
 ## Badges
-[![Google for Developers Badge](https://developers.google.com/static/profile/badges/events/cloud/next/2023/attendee/badge.svg)](https://developers.google.com/profile/badges/events/cloud/next/2023/attendee)
+[![Google for Developers Badge](<img src="https://developers.google.com/static/profile/badges/events/cloud/next/2023/attendee/badge.svg" width="50" height="50"/>)](https://developers.google.com/profile/badges/events/cloud/next/2023/attendee)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/nithya-ganesh/)
