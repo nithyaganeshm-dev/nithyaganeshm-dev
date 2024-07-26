@@ -24,7 +24,7 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 ### Tools & Platforms
 ![Git](https://img.icons8.com/color/48/git.png)
 ![GitHub](https://img.icons8.com/fluency/48/github.png)
-![MongoDB](https://img.icons8.com/color/48/mongodb.png")
+![MongoDB](https://img.icons8.com/color/48/mongodb.png)
 ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 
 ## 📈 GitHub Stats
