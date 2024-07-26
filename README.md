@@ -35,6 +35,9 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 - 🏅 Completed an internship at CodSoft in web development
 - 🎉 Attended the Google I/O Extended 2024 event in Salem
 
+## Badges
+[![Google for Developers Badge](https://developers.google.com/static/profile/badges/events/cloud/next/2023/attendee/badge.svg)](https://developers.google.com/profile/badges/events/cloud/next/2023/attendee)
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/nithya-ganesh/)
 [![Twitter](https://img.icons8.com/color/48/twitterx--v1.png)](https://twitter.com/nithyaganesh)
