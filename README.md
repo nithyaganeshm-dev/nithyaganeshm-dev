@@ -1,7 +1,5 @@
 # Hi there, I'm Nithyaganesh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=nithyaganesh&color=brightgreen)
-
 ## 🚀 About Me
 I am an aspiring full stack web developer with a strong passion for creating dynamic and responsive web applications. I have a solid foundation in web development technologies and continuously strive to enhance my skills and stay updated with the latest industry trends.
 
@@ -14,7 +12,7 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 ## 🛠️ Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.icons8.com/color/48/python--v1.png)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
