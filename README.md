@@ -1,5 +1,7 @@
 # Hi there, I'm Nithyaganesh M 👋
 
+![GitHub followers](https://img.shields.io/github/followers/nithyaganeshm-dev?style=social)
+
 ## 🚀 About Me
 I am an aspiring full stack developer with a strong passion for creating dynamic and responsive web applications. I have a solid foundation in web development technologies and continuously strive to enhance my skills and stay updated with the latest industry trends.
 
@@ -28,7 +30,6 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 ![VsCode](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
 
 ## 📈 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/nithyaganeshm-dev?style=social)
 ![Nithyaganesh M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
