@@ -1,7 +1,7 @@
 # Hi there, I'm Nithyaganesh M 👋
 
 ## 🚀 About Me
-I am an aspiring full stack developer from salem with a strong passion for creating dynamic and responsive web applications. I have a solid foundation in web development technologies and continuously strive to enhance my skills and stay updated with the latest industry trends.
+I am an Junior Full Stack Web Developer from salem with a strong passion for creating dynamic and responsive web applications. I have a solid foundation in web development technologies and continuously strive to enhance my skills and stay updated with the latest industry trends.
 
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning advanced JavaScript and React.js
