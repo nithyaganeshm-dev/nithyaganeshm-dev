@@ -36,7 +36,7 @@ I am an aspiring full stack web developer with a strong passion for creating dyn
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/nithya-ganesh/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nithyaganesh)
+[![Twitter](https://img.icons8.com/color/48/twitterx--v1.png)](https://twitter.com/nithyaganesh)
 
 ## 🌟 Projects
 - [Project 1](https://github.com/nithyaganesh/project1) - Description of project 1
