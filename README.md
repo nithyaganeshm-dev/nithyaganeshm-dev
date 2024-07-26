@@ -35,7 +35,7 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 - 🏅 Completed an internship at CodSoft in web development
 - 🎉 Attended the Google I/O Extended 2024 event in Salem
 
-## 🏆 Badges Earned
+## :star: Badges Earned
 <a href="https://developers.google.com/profile/badges/events/cloud/next/2023/attendee" target="_blank"><img src="https://developers.google.com/static/profile/badges/events/cloud/next/2023/attendee/badge.svg" alt="Google for Developers Badge" width="50"></a>
 <a href="https://developers.google.com/profile/badges/community/extended/attendee" target="_blank"><img src="https://developers.google.com/static/profile/badges/community/extended/attendee/badge.svg" alt="Google for Developers Badge" width="50"></a>
 
