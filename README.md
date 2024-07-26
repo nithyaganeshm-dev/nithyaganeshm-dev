@@ -30,7 +30,6 @@ I am an aspiring full stack developer with a strong passion for creating dynamic
 ## 📈 GitHub Stats
 ![Nithyaganesh M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithyaganeshm-dev&show_icons=true&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/nithyaganeshm-dev?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaganeshm-dev&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 - 🎉 Attended the Google Cloud Next '23 event in Benguluru
